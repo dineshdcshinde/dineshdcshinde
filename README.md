@@ -9,7 +9,7 @@
 
 ---
 
-I build fast, accessible, production-ready interfaces — and the tools other developers use to build them.
+I build fast, accessible, production-ready interfaces - and the tools other developers use to build them.
 
 🔭 Right now I'm building **[Prava UI](https://github.com/dineshdcshinde/prava-ui)**, an open-source React component library: accessible, tree-shakable, fully typed, with design tokens and zero runtime dependencies. It's on npm as a release candidate.
 
