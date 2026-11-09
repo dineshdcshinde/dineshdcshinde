@@ -19,10 +19,7 @@ I build fast, accessible, production-ready interfaces - and the tools other deve
 |---|---|---|
 | **[Prava UI](https://github.com/dineshdcshinde/prava-ui)** | Accessible, responsive React component library. Ships compiled CSS, TypeScript types and design tokens, so consumers need no Tailwind setup. CI + published on npm. | React · TypeScript · Tailwind v4 |
 | **[Prava UI Docs](https://github.com/dineshdcshinde/prava-ui-docs)** | Documentation and live playground site, built entirely from Prava UI's own components | React · TypeScript |
-| **[GeminiVerse – AI Expert](https://github.com/dineshdcshinde/GemiVerse--AI-Expert)** | AI assistant platform powered by Google's Gemini 2.0 Flash model | React · Gemini API |
-| **[mint_id](https://github.com/dineshdcshinde/_mint_id)** | Lightweight, zero-dependency ID generator built on Node's built-in crypto module | Node.js |
 | **[React Design Patterns](https://github.com/dineshdcshinde/React_Design_Pattern)** | Hands-on, fully typed implementations of core React design patterns | React · TypeScript |
-| **[Multi-Vendor Marketplace](https://github.com/dineshdcshinde/Major08_Marketplace_for_vendors)** | Responsive marketplace where multiple vendors list and sell products — [live demo](https://dineshdcshinde.github.io/Major08_Marketplace_for_vendors/) | HTML · CSS · JavaScript |
 
 ## 🛠️ Tech stack
 
