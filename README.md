@@ -47,10 +47,10 @@ I build fast, accessible, production-ready interfaces - and the tools other deve
 
 ## 📌 What I focus on
 
-- **Component architecture & design systems** — reusable, composable, documented
-- **Accessibility** — keyboard support, ARIA, sensible focus management
-- **Type safety** — TypeScript end to end, typed state with Redux Toolkit
-- **Shipping** — CI, versioned releases, and docs people can actually use
+- **Component architecture & design systems**: reusable, composable, documented
+- **Accessibility**: keyboard support, ARIA, sensible focus management
+- **Type safety**: TypeScript end to end, typed state with Redux Toolkit
+- **Shipping**: CI, versioned releases, and docs people can actually use
 
 ---
 
