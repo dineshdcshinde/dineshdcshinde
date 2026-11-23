@@ -19,6 +19,7 @@ I build fast, accessible, production-ready interfaces, and the tools other devel
 |---|---|---|
 | **[Prava UI](https://github.com/dineshdcshinde/prava-ui)** | Accessible, responsive React component library. Ships compiled CSS, TypeScript types and design tokens, so consumers need no Tailwind setup. CI + published on npm. | React · TypeScript · Tailwind v4 |
 | **[Prava UI Docs](https://github.com/dineshdcshinde/prava-ui-docs)** | Documentation and live playground site, built entirely from Prava UI's own components | React · TypeScript |
+| **[PureFlow](https://github.com/dineshdcshinde/PureFlow)** | Ad-free, distraction-free YouTube. One engine, built for Chrome, Edge and Firefox. Live on the Chrome Web Store. | JavaScript · Browser Extension |
 | **[React Design Patterns](https://github.com/dineshdcshinde/React_Design_Pattern)** | Hands-on, fully typed implementations of core React design patterns | React · TypeScript |
 
 ## 🛠️ Tech stack
